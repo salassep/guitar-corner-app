@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836109220122",
+    "project_id": "guitar-corner-app",
+    "storage_bucket": "guitar-corner-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836109220122:android:41124d5216853e478b54a3",
+        "android_client_info": {
+          "package_name": "com.guitar_corner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836109220122-lbc66ptl8cge7rah6s0ogd4d539t2b4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0aL29Od6Ia4lamCMGdsLKX4eW7YTe3bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836109220122-lbc66ptl8cge7rah6s0ogd4d539t2b4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
