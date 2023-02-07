@@ -1,6 +1,6 @@
-# guitar_corner_app
+# Guitar Corner App
 
-A new Flutter project.
+A mobile application for selling guitars made using Flutter.
 
 ## Getting Started
 
